@@ -36,7 +36,10 @@ ol, ul
 
 p
 {
+	font-size: 15pt;	
 	line-height: 180%;
+	font-weight: 600;
+
 }
 
 strong
