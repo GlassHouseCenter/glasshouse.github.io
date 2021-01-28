@@ -82,7 +82,22 @@ a:hover
 {
 	display: block;
 	width: 250px;
-	height: 250px;	}
+	height: 250px;	
+}
+
+.image-profile-wide
+{
+	display: block;
+	width: 250px;
+	height: 200px;	
+}
+
+.image-profile-tall
+{
+	display: block;
+	width: 210px;
+	height: 250px;	
+}
 
 .image-twitter
 {
